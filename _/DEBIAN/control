@@ -1,0 +1,10 @@
+Package: com.ziph0n.ios6chargingsound
+Name: iOS 6 Charging Sound
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This will bring the iOS 6 charging sound using Beep Beep
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 64
